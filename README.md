@@ -20,10 +20,10 @@ The base shape helps in pressure distribution, and the neck ensures proper seali
 The design also considers material efficiency and structural stability under internal pressure.
 
 ## 📷 Preview
-![Isometric View](images/isometric-view.png)
-![Front View](images/front-view.png)
-![Top View](images/top-view.png)
-![Bottom Design](images/bottom-view.png)
+![Isometric View](isometric-view.png)
+![Front View](front-view.png)
+![Top View](top-view.png)
+![Bottom Design](bottom-view.png)
 
 ## 📁 Files Included
 - 3D model (.dwg)
