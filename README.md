@@ -26,7 +26,7 @@ The design also considers material efficiency and structural stability under int
 ![Bottom Design](bottom-view.png)
 
 ## 📁 Files Included
-- 3D model (.dwg)
+- 3D model (Plastic-Bottle)-
 - Images of different views
 
 ## 🚀 Learning Outcome
