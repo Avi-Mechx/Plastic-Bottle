@@ -27,8 +27,7 @@ The design also considers material efficiency and structural stability under int
 
 ## 📁 Files Included
 - 3D model
-- Images of different views
-![Plastic-Bottle]-(PLASTIC BOTTLE.dwg)
+- Images of different views of the Plastic-Bottle
 ## 🚀 Learning Outcome
 - 3D modeling in AutoCAD
 - Understanding of product design
